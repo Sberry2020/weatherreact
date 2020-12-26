@@ -57,6 +57,6 @@ export default function App() {
         <input className="search" type="Submit" readOnly value="Search" />
       </form>
       {output}
-    </div>
+     </div>
   );
 }
